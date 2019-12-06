@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "774c750f0821e58f62e14f252d79ae9c",
+    "revision": "4c930816e39cbfe45b7d432eef5b1a0a",
     "url": "/AstraLab-RH/index.html"
   },
   {
-    "revision": "a1bb351702a174d7556d",
+    "revision": "fbc431a44758f4646d72",
     "url": "/AstraLab-RH/static/css/main.b426d1d3.chunk.css"
   },
   {
-    "revision": "a731d22219004c0842b2",
-    "url": "/AstraLab-RH/static/js/2.93f3a77b.chunk.js"
+    "revision": "ccdf2af7ab62afcca809",
+    "url": "/AstraLab-RH/static/js/2.8e706308.chunk.js"
   },
   {
-    "revision": "a1bb351702a174d7556d",
-    "url": "/AstraLab-RH/static/js/main.75c9d0ee.chunk.js"
+    "revision": "fbc431a44758f4646d72",
+    "url": "/AstraLab-RH/static/js/main.a375b06c.chunk.js"
   },
   {
-    "revision": "0d048950adab21d046aa",
-    "url": "/AstraLab-RH/static/js/runtime~main.77527d74.js"
+    "revision": "36f00ccd8595ae3c7614",
+    "url": "/AstraLab-RH/static/js/runtime~main.49ec5c51.js"
   },
   {
     "revision": "45b0848e7f96f958d67cfae41c8c004c",
