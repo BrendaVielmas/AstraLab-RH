@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AstraLab-RH/precache-manifest.42d9a8e88790d5d8015aa3e415011ae5.js"
+  "/AstraLab-RH/precache-manifest.727cbcfc06d4d806fde29aec6c87f4e1.js"
 );
 
 self.addEventListener('message', (event) => {
