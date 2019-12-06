@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df0bdef746c69f151dbccd2622f2a695",
+    "revision": "952c783fb40d2800accf8018c20d548a",
     "url": "/AstraLab-RH/index.html"
   },
   {
-    "revision": "a3b1322bd99b59a9c87e",
+    "revision": "f62c5cfe1d232f7c69ea",
     "url": "/AstraLab-RH/static/css/main.b426d1d3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AstraLab-RH/static/js/2.8e706308.chunk.js"
   },
   {
-    "revision": "a3b1322bd99b59a9c87e",
-    "url": "/AstraLab-RH/static/js/main.461b654c.chunk.js"
+    "revision": "f62c5cfe1d232f7c69ea",
+    "url": "/AstraLab-RH/static/js/main.16ae3501.chunk.js"
   },
   {
     "revision": "36f00ccd8595ae3c7614",
