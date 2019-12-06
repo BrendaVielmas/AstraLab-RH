@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Astra-Lab/static/css/main.b426d1d3.chunk.css",
+    "main.js": "/Astra-Lab/static/js/main.0ac3f373.chunk.js",
+    "main.js.map": "/Astra-Lab/static/js/main.0ac3f373.chunk.js.map",
+    "runtime~main.js": "/Astra-Lab/static/js/runtime~main.696fdf42.js",
+    "runtime~main.js.map": "/Astra-Lab/static/js/runtime~main.696fdf42.js.map",
+    "static/js/2.a47424c8.chunk.js": "/Astra-Lab/static/js/2.a47424c8.chunk.js",
+    "static/js/2.a47424c8.chunk.js.map": "/Astra-Lab/static/js/2.a47424c8.chunk.js.map",
+    "index.html": "/Astra-Lab/index.html",
+    "precache-manifest.1604222492605e42c2cb2ebe4e7c3b4a.js": "/Astra-Lab/precache-manifest.1604222492605e42c2cb2ebe4e7c3b4a.js",
+    "service-worker.js": "/Astra-Lab/service-worker.js",
+    "static/css/main.b426d1d3.chunk.css.map": "/Astra-Lab/static/css/main.b426d1d3.chunk.css.map",
+    "static/media/astraLogo.png": "/Astra-Lab/static/media/astraLogo.45b0848e.png",
+    "static/media/consultorIcon.png": "/Astra-Lab/static/media/consultorIcon.27094f86.png",
+    "static/media/hrLogo.png": "/Astra-Lab/static/media/hrLogo.16a42b4a.png",
+    "static/media/indeedIcon.png": "/Astra-Lab/static/media/indeedIcon.f4f56314.png",
+    "static/media/juniorIcon.png": "/Astra-Lab/static/media/juniorIcon.bfab2581.png",
+    "static/media/noLevelIcon.png": "/Astra-Lab/static/media/noLevelIcon.a64b9c9d.png",
+    "static/media/seniorIcon.png": "/Astra-Lab/static/media/seniorIcon.67fb988d.png",
+    "static/media/tshLogo.png": "/Astra-Lab/static/media/tshLogo.6bcb4cf4.png"
+  }
+}
