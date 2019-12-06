@@ -5,7 +5,12 @@
         "levelenglish":"Basic",
         "testlevel":[
            "junior" 
-        ]   
+        ],
+        "LogicQuestion":
+            ["question1: correct","time:2:24 min"],
+        "TechnicalQuestion":
+            {"question1":"correct","time":"3:18 min"}
+          
     },
     {   "name": "Joaquin Gonzalez",
         "email":"unmailfake@gmail.com",

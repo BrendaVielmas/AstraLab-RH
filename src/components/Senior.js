@@ -69,7 +69,7 @@ componentWillMount(){
     render(){
         return(
           <div>
-            
+            <img className="companyLogo" src={require('../AstraLab/astraLogo.png')} alt="Company logo"></img>
           <div className="titlejunior" ><h1>Senior</h1></div>
           
 
@@ -99,6 +99,7 @@ componentWillMount(){
                           <th>{can.levelenglish}</th>
                           <th>{can.email}</th>
                           <th>{can.test}</th>
+                          <th><button className="btnShowData" onClick={()=>{}}>Show Results</button></th>
                       </tr>
 
 
@@ -112,7 +113,10 @@ componentWillMount(){
       
           </div>
 
-          <div><Link to="./Candidates">Return</Link></div>
+          <div className="btnRtnDiv" ><Link to="./Candidates">
+              
+              <button className = "btnRtnDataFilter">Return</button>
+                </Link></div>
 
           </div>
 

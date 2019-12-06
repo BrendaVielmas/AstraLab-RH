@@ -17,8 +17,9 @@ constructor(){
         candidates:[]
     };
 
-
 }
+
+
 
 componentWillMount(){
 
@@ -32,7 +33,8 @@ componentWillMount(){
           email: snap.val().email,
           levelenglish: snap.val().levelenglish,
           name: snap.val().name,
-          test: snap.val().testlevel
+          test: snap.val().testlevel,
+          logicQuestion: snap.val().LogicQuestion,
         });
   
         this.setState({
@@ -70,6 +72,7 @@ componentWillMount(){
         return(
 
           <div>
+             <img className="companyLogo" src={require('../AstraLab/astraLogo.png')} alt="Company logo"></img>
             
             <div className="titlejunior" ><h1>Junior</h1></div>
             
@@ -99,16 +102,17 @@ componentWillMount(){
                             <th>{can.name}</th>
                             <th>{can.levelenglish}</th>
                             <th>{can.email}</th>
-                            <th>{can.test}</th>
+                            <th>{can.test}</th> 
+                            <th><button className="btnShowData" onClick={()=>{}}>Show Results</button></th>                           
                         </tr>
-
-
 
                     )
                 })
 
                 }
                 </table>
+
+              
 
         
             </div>
