@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import firebase from './Firebase';
+//import firebase from './Firebase';
 import { Redirect, Link } from 'react-router-dom';
 import VacancyCss from './Vacancy.css'
 import fbIcon from '../AstraLab/facebookIcon.png'
